@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-deployer-local:1.3.9.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-deployer-local/1.3.9.RELEASE/f2f50c271defa01fe8c5d44b903a490f2bf4a10b/spring-cloud-deployer-local-1.3.9.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-deployer-local/1.3.9.RELEASE/cbdb5a8bc92b66ab2e4d3f26d7d40688a653e8e7/spring-cloud-deployer-local-1.3.9.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

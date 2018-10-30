@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-deployer-spi:1.2.1.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-deployer-spi/1.2.1.RELEASE/c870c84c5a05e775d8c7f72965f71ba05a91b31c/spring-cloud-deployer-spi-1.2.1.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-deployer-spi/1.2.1.RELEASE/bb4712841706a0841c4727d9c143446362e5ee71/spring-cloud-deployer-spi-1.2.1.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

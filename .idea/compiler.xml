@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="serverless-demo-app_integrationTest" target="1.8" />
+      <module name="serverless-demo-app_main" target="1.8" />
+      <module name="serverless-demo-app_test" target="1.8" />
+      <module name="serverless-demo-task-blue_main" target="1.8" />
+      <module name="serverless-demo-task-blue_test" target="1.8" />
+      <module name="serverless-demo-task-launcher_main" target="1.8" />
+      <module name="serverless-demo-task-launcher_test" target="1.8" />
+      <module name="serverless-demo-task-red_main" target="1.8" />
+      <module name="serverless-demo-task-red_test" target="1.8" />
+      <module name="serverless-demo-task-trigger_main" target="1.8" />
+      <module name="serverless-demo-task-trigger_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

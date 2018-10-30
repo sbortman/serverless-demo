@@ -1,0 +1,5 @@
+include 'serverless-demo-task-trigger',
+        'serverless-demo-task-launcher',
+        'serverless-demo-task-red',
+        'serverless-demo-task-blue',
+        'serverless-demo-app'

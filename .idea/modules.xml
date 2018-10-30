@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/serverless-demo.iml" filepath="$PROJECT_DIR$/serverless-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serverless-demo-app/serverless-demo-app.iml" filepath="$PROJECT_DIR$/.idea/modules/serverless-demo-app/serverless-demo-app.iml" group="serverless-demo-app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serverless-demo-app/serverless-demo-app_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/serverless-demo-app/serverless-demo-app_integrationTest.iml" group="serverless-demo-app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serverless-demo-app/serverless-demo-app_main.iml" filepath="$PROJECT_DIR$/.idea/modules/serverless-demo-app/serverless-demo-app_main.iml" group="serverless-demo-app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serverless-demo-app/serverless-demo-app_test.iml" filepath="$PROJECT_DIR$/.idea/modules/serverless-demo-app/serverless-demo-app_test.iml" group="serverless-demo-app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serverless-demo-task-blue/serverless-demo-task-blue.iml" filepath="$PROJECT_DIR$/.idea/modules/serverless-demo-task-blue/serverless-demo-task-blue.iml" group="serverless-demo-task-blue" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serverless-demo-task-blue/serverless-demo-task-blue_main.iml" filepath="$PROJECT_DIR$/.idea/modules/serverless-demo-task-blue/serverless-demo-task-blue_main.iml" group="serverless-demo-task-blue" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serverless-demo-task-blue/serverless-demo-task-blue_test.iml" filepath="$PROJECT_DIR$/.idea/modules/serverless-demo-task-blue/serverless-demo-task-blue_test.iml" group="serverless-demo-task-blue" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serverless-demo-task-launcher/serverless-demo-task-launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/serverless-demo-task-launcher/serverless-demo-task-launcher.iml" group="serverless-demo-task-launcher" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serverless-demo-task-launcher/serverless-demo-task-launcher_main.iml" filepath="$PROJECT_DIR$/.idea/modules/serverless-demo-task-launcher/serverless-demo-task-launcher_main.iml" group="serverless-demo-task-launcher" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serverless-demo-task-launcher/serverless-demo-task-launcher_test.iml" filepath="$PROJECT_DIR$/.idea/modules/serverless-demo-task-launcher/serverless-demo-task-launcher_test.iml" group="serverless-demo-task-launcher" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serverless-demo-task-red/serverless-demo-task-red.iml" filepath="$PROJECT_DIR$/.idea/modules/serverless-demo-task-red/serverless-demo-task-red.iml" group="serverless-demo-task-red" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serverless-demo-task-red/serverless-demo-task-red_main.iml" filepath="$PROJECT_DIR$/.idea/modules/serverless-demo-task-red/serverless-demo-task-red_main.iml" group="serverless-demo-task-red" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serverless-demo-task-red/serverless-demo-task-red_test.iml" filepath="$PROJECT_DIR$/.idea/modules/serverless-demo-task-red/serverless-demo-task-red_test.iml" group="serverless-demo-task-red" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serverless-demo-task-trigger/serverless-demo-task-trigger.iml" filepath="$PROJECT_DIR$/.idea/modules/serverless-demo-task-trigger/serverless-demo-task-trigger.iml" group="serverless-demo-task-trigger" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serverless-demo-task-trigger/serverless-demo-task-trigger_main.iml" filepath="$PROJECT_DIR$/.idea/modules/serverless-demo-task-trigger/serverless-demo-task-trigger_main.iml" group="serverless-demo-task-trigger" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serverless-demo-task-trigger/serverless-demo-task-trigger_test.iml" filepath="$PROJECT_DIR$/.idea/modules/serverless-demo-task-trigger/serverless-demo-task-trigger_test.iml" group="serverless-demo-task-trigger" />
+    </modules>
+  </component>
+</project>
